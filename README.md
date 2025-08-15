@@ -20,4 +20,6 @@ It focuses on identifying patterns in offender demographics, crime context, and 
 - Jupyter Notebook
 - Relational Data Modeling
 
-## Repository Structure
+## Draft Notebook
+- [Justice Data Analysis Workflow (NCVSdata.ipynb)](notebooks/NCVSdata.ipynb)
+
