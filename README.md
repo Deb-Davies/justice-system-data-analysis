@@ -21,5 +21,5 @@ It focuses on identifying patterns in offender demographics, crime context, and 
 - Relational Data Modeling
 
 ## Draft Notebook
-- [Justice Data Analysis Workflow (NCVSdata.ipynb)](notebooks/NCVSdata.ipynb)
+- [Justice Data Analysis Workflow (Justice21.ipynb)](notebooks/Justice21.ipynb)
 
